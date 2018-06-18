@@ -32,11 +32,12 @@ $products = {
 	},
 
 	halfcreative : {
-		name     : 'Halfcreative',
-		tag      : 'WP',
-		img      : 'http://i.imgur.com/roUmrA5.jpg',
-		url      : 'http://halfcreative.themes.pixelentity.com/',
-		purchase : 'http://themeforest.net/item/halfcreative-one-page-portfolio-wordpress-theme/4566909?ref=OriginalEXE'
+		name     : 'LinkHua',
+		tag      : 'PHP',
+		img      : 'https://i.imgur.com/8jQkSq3.jpg',
+		url      : 'https://www.linkhua.com/',
+		purchase : 'http://themeforest.net/item/halfcreative-one-page-portfolio-wordpress-theme/4566909?ref=OriginalEXE',
+		tooltip  : '聚华网'
 	},
 
 	bigwig_html : {
