@@ -19,8 +19,7 @@ $products = {
 		img      : 'https://i.imgur.com/1NCo6Wp.jpg',
 		url      : 'http://www.meadowcreekhigh.org/',
 		purchase : 'https://www.sparkdesigner.com/pricing/',
-		tooltip  : 'Meadowcreek High School',
-		responsive: 0
+		tooltip  : 'Meadowcreek High School'
 	},
 
 	surreal : {
@@ -108,7 +107,9 @@ $products = {
 		tag      : 'WP',
 		img      : 'http://i.imgur.com/BXbOoUp.jpg',
 		url      : 'http://neo.themes.pixelentity.com/',
-		purchase : 'http://themeforest.net/item/neo-premium-responsive-business-wordpress-theme/2916870?ref=OriginalEXE'
+		purchase : 'http://themeforest.net/item/neo-premium-responsive-business-wordpress-theme/2916870?ref=OriginalEXE',
+		responsive: 0
+		
 	}
 
 };
