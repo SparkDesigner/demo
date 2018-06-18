@@ -59,8 +59,8 @@ $products = {
 	uQualis : {
 		name     : 'uQualis',
 		tag      : 'HTML',
-		img      : 'http://i.imgur.com/BXbOoUp.jpg',
-		url      : 'http://neo.themes.pixelentity.com/',
+		img      : 'https://i.imgur.com/KoJEwhv.jpg',
+		url      : 'https://www.uqualis.com/',
 		purchase : 'https://www.sparkdesigner.com/pricing/',
 		//responsive: 0
 		
