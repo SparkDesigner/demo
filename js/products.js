@@ -1,5 +1,5 @@
 var $products,
-	$current_product = 'visia';
+	$current_product = 'Our Work';
 
 // List all the products here
 
