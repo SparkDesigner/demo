@@ -49,16 +49,16 @@ $products = {
 	},
 
 	ProDealTips : {
-		name     : 'BigWig',
-		tag      : 'HTML',
-		img      : 'http://i.imgur.com/rOk3oel.jpg',
-		url      : 'http://bigwig.templates.pixelentity.com/',
+		name     : 'ProDealTips',
+		tag      : 'WP',
+		img      : 'https://i.imgur.com/lyI1JpY.jpg',
+		url      : 'https://www.prodealtips.com/',
 		purchase : 'https://www.sparkdesigner.com/pricing/'
 	},
 
 	uQualis : {
-		name     : 'Neo',
-		tag      : 'WP',
+		name     : 'uQualis',
+		tag      : 'HTML',
 		img      : 'http://i.imgur.com/BXbOoUp.jpg',
 		url      : 'http://neo.themes.pixelentity.com/',
 		purchase : 'https://www.sparkdesigner.com/pricing/',
