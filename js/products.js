@@ -6,20 +6,20 @@ var $products,
 $products = {
 
 	visia : {
-		name     : 'Meadowcreek',
+		name     : 'HL Computer',
 		tag      : 'WP',
-		img      : 'https://i.imgur.com/1NCo6Wp.jpg',
-		url      : 'http://www.meadowcreekhigh.org/',
+		img      : 'https://i.imgur.com/MY4JzPC.jpg',
+		url      : 'https://www.hlcomputer.com/',
 		purchase : 'https://www.sparkdesigner.com/pricing/',
 		tooltip  : 'Optional Tooltip'
 	},
 
 	bigwig_wp : {
-		name     : 'BigWig',
+		name     : 'Meadowcreek',
 		tag      : 'WP',
-		img      : 'http://i.imgur.com/uoreaON.jpg',
-		url      : 'http://bigwig.themes.pixelentity.com/',
-		purchase : 'http://themeforest.net/item/bigwig-modern-corporate-retina-wordpress-theme/5217458?ref=OriginalEXE',
+		img      : 'https://i.imgur.com/1NCo6Wp.jpg',
+		url      : 'http://www.meadowcreekhigh.org/',
+		purchase : 'https://www.sparkdesigner.com/pricing/',
 		responsive: 0
 	},
 
