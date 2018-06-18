@@ -11,7 +11,6 @@ $products = {
 		img      : 'https://i.imgur.com/MY4JzPC.jpg',
 		url      : 'https://www.hlcomputer.com/',
 		purchase : 'https://www.sparkdesigner.com/pricing/',
-		tooltip  : 'Optional Tooltip'
 	},
 
 	bigwig_wp : {
@@ -20,6 +19,7 @@ $products = {
 		img      : 'https://i.imgur.com/1NCo6Wp.jpg',
 		url      : 'http://www.meadowcreekhigh.org/',
 		purchase : 'https://www.sparkdesigner.com/pricing/',
+		tooltip  : 'Meadowcreek High School',
 		responsive: 0
 	},
 
