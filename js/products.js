@@ -5,7 +5,7 @@ var $products,
 
 $products = {
 
-	visia : {
+	hlcomputer : {
 		name     : 'HL Computer',
 		tag      : 'WP',
 		img      : 'https://i.imgur.com/MY4JzPC.jpg',
@@ -13,7 +13,7 @@ $products = {
 		purchase : 'https://www.sparkdesigner.com/pricing/',
 	},
 
-	bigwig_wp : {
+	meadowcreek : {
 		name     : 'Meadowcreek',
 		tag      : 'WP',
 		img      : 'https://i.imgur.com/1NCo6Wp.jpg',
@@ -22,7 +22,7 @@ $products = {
 		tooltip  : 'Meadowcreek High School'
 	},
 
-	surreal : {
+	hibachi : {
 		name     : 'Hibachi Express',
 		tag      : 'WP',
 		img      : 'https://i.imgur.com/Sl9MkgG.jpg',
