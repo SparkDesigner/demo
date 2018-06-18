@@ -23,11 +23,12 @@ $products = {
 	},
 
 	surreal : {
-		name     : 'Surreal',
+		name     : 'Hibachi Express',
 		tag      : 'WP',
-		img      : 'http://i.imgur.com/yISKP2n.jpg',
-		url      : 'http://surreal.themes.pixelentity.com/',
-		purchase : 'http://themeforest.net/item/surreal-one-page-parallax-wordpress-theme/5175040?ref=OriginalEXE'
+		img      : 'https://i.imgur.com/Sl9MkgG.jpg',
+		url      : 'https://www.hibachiwingshouse.com/',
+		purchase : 'https://www.sparkdesigner.com/pricing/',
+		tooltip  : 'Hibachi Express & Wings House'
 	},
 
 	halfcreative : {
