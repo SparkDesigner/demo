@@ -62,7 +62,7 @@ $products = {
 		img      : 'http://i.imgur.com/BXbOoUp.jpg',
 		url      : 'http://neo.themes.pixelentity.com/',
 		purchase : 'https://www.sparkdesigner.com/pricing/',
-		responsive: 0
+		//responsive: 0
 		
 	}
 
