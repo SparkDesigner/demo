@@ -6,11 +6,11 @@ var $products,
 $products = {
 
 	visia : {
-		name     : 'Visia',
+		name     : 'Meadowcreek',
 		tag      : 'WP',
-		img      : 'http://i.imgur.com/hgp2v0H.jpg',
-		url      : 'http://visia.themes.pixelentity.com/',
-		purchase : 'http://themeforest.net/item/visia-responsive-one-page-retina-wordpress-theme/5602067?ref=OriginalEXE',
+		img      : 'https://i.imgur.com/1NCo6Wp.jpg',
+		url      : 'http://www.meadowcreekhigh.org/',
+		purchase : 'https://www.sparkdesigner.com/pricing/',
 		tooltip  : 'Optional Tooltip'
 	},
 
